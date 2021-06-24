@@ -1,0 +1,13 @@
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\obj\Debug\netcoreapp3.1\PremiumService.csprojAssemblyReference.cache
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\obj\Debug\netcoreapp3.1\PremiumService.AssemblyInfoInputs.cache
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\obj\Debug\netcoreapp3.1\PremiumService.AssemblyInfo.cs
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\obj\Debug\netcoreapp3.1\PremiumService.csproj.CoreCompileInputs.cache
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\bin\Debug\netcoreapp3.1\PremiumService.exe
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\bin\Debug\netcoreapp3.1\PremiumService.deps.json
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\bin\Debug\netcoreapp3.1\PremiumService.runtimeconfig.json
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\bin\Debug\netcoreapp3.1\PremiumService.runtimeconfig.dev.json
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\bin\Debug\netcoreapp3.1\PremiumService.dll
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\bin\Debug\netcoreapp3.1\PremiumService.pdb
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\obj\Debug\netcoreapp3.1\PremiumService.dll
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\obj\Debug\netcoreapp3.1\PremiumService.pdb
+C:\Users\eapes\source\repos\TransacBackend\PremiumCalculatorWebApi\PremiumService\obj\Debug\netcoreapp3.1\PremiumService.genruntimeconfig.cache

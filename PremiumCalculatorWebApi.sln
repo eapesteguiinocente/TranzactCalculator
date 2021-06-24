@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PremiumCalculatorWebApi", "PremiumCalculatorWebApi\PremiumCalculatorWebApi.csproj", "{27864B45-6C0A-482D-8509-1FEC9D3BF00A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PremiumService", "PremiumService\PremiumService.csproj", "{14B16664-6DDF-435D-9635-D0D72D14CC47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27864B45-6C0A-482D-8509-1FEC9D3BF00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27864B45-6C0A-482D-8509-1FEC9D3BF00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27864B45-6C0A-482D-8509-1FEC9D3BF00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27864B45-6C0A-482D-8509-1FEC9D3BF00A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B16664-6DDF-435D-9635-D0D72D14CC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B16664-6DDF-435D-9635-D0D72D14CC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B16664-6DDF-435D-9635-D0D72D14CC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B16664-6DDF-435D-9635-D0D72D14CC47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F395FD4C-959D-4706-B2B8-DCC9A0979E9F}
+	EndGlobalSection
+EndGlobal

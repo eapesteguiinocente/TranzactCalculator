@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="..\Content\bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="..\Content\VanillaDatePicker\datepicker.css" rel="stylesheet" type="text/css" />
+    <script src="..\Content\jquery-3.4.1.js"></script>
+    <script src="..\Content\VanillaDatePicker\datepicker.js"></script>
+</head>
+
+<body>
+    <div class="row">
+        <div class="col-md-1">
+            <label>Date of Birth</label>
+        </div>
+        <div class="col-md-2">
+            <input id="txt_date" name="calendar" class="form-control" placeholder="dd/mm/yyyy" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-1">
+            <label>State</label>
+        </div>
+        <div class="col-md-2">
+            <select id="ddl_state" class="form-control">
+                <option value="NY">NY - New York</option>
+                <option value="NJ">NJ - New Jers</option>
+                <option value="AL">AL</option>
+                <option value="AK">AK</option>
+                <option value="WY">WY</option>
+            </select>
+        </div>
+        <div class="col-md-1">
+            <label>Plan</label>
+        </div>
+        <div class="col-md-1">
+            <select id="ddl_plan" class="form-control">
+                <option value="A">A</option>
+                <option value="B">B</option>
+                <option value="C">C</option>
+            </select>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-1">
+            <label>Age</label>
+        </div>
+        <div class="col-md-2">
+            <input id="txt_age" type="text" class="form-control" maxlength="2" />
+        </div>
+    </div>
+
+    <div class="row"
+        style="margin-top: 50px; margin-left: 10px; margin-right: 10px; border-style: solid; border-color: black;">
+        <div class="col-md-4">
+            <div class="row">&emsp;</div>
+            <div class="row">
+                <div class="col-md-2"></div>
+                <div class="col-md-6">
+                    <a id="btn_get" class="btn btn-success" style="color:white;">Get Premium</a>
+                </div>
+                <div class="col-md-3"></div>
+            </div>
+            <div class="row" style="margin-top: 20px;">
+                <div class="col-md-2"></div>
+                <div class="col-md-1">
+                    <label>Period</label>
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col-md-6">
+                    <select id="ddl_period" class="form-control filterTable">
+                        <option value="1">Montly</option>
+                        <option value="2">Quarterly</option>
+                        <option value="3">Semi-Annually</option>
+                        <option value="4">Annually</option>
+                    </select>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <table id="table" class="table">
+                <thead id="thead">
+                </thead>
+                <tbody id="tbody">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+
+<script src="..\JS\index.js"></script>
+
+</html>
